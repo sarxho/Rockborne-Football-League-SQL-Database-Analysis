@@ -109,6 +109,4 @@ To improve data integrity, constraints were added:
 - Use window functions (`RANK()`, `ROW_NUMBER()`) to create leaderboards
 
 ---
-## Author
-Created by: *[Your Name]*
 
