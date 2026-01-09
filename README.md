@@ -103,8 +103,6 @@ To improve data integrity, constraints were added:
 ---
 
 ## Suggested Improvements (Next Steps)
-- Add a `matches` table that stores each match’s **home_team_id** and **away_team_id** directly  
-  (this simplifies team-level event analysis and avoids ambiguity)
 - Add views (e.g. `league_table_view`) to make reporting easier
 - Use window functions (`RANK()`, `ROW_NUMBER()`) to create leaderboards
 
